@@ -37,8 +37,7 @@ I've a basic knowledge of the language and I am learning to improve.
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakeezt&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages Card"><br>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakeezt&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats Card">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakeezt&theme=merko&hide_border=false" alt="GitHub Streak Card"><br>
 </p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=Sakeezt&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats Card">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakeezt&theme=merko&hide_border=false" alt="GitHub Streak Card"><br></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
