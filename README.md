@@ -35,7 +35,7 @@ I've a basic knowledge of the language and I am learning to improve.
 </p>
 
 # 📊 GitHub Stats:
-<p><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=sakeezt&show_icons=true&locale=en&layout=compact" alt="sakeezt]/></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakeezt&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=Sakeezt&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sakeezt&theme=merko&hide_border=false)<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
