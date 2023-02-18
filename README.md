@@ -38,7 +38,11 @@ I've a basic knowledge of the language and I am learning to improve.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakeezt&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages Card">
 </p><br/>
-![]
-![](https://github-readme-stats.vercel.app/api?username=Sakeezt&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sakeezt&theme=merko&hide_border=false)<br/>
+<p>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Sakeezt&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://github-readme-stats.vercel.app/api?username=Sakeezt&theme=merko&hide_border=false&include_all_commits=false&count_private=false)">
+</p>
+<p>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Sakeezt&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://github-readme-streak-stats.herokuapp.com/?user=Sakeezt&theme=merko&hide_border=false)">
+</p><br/>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
