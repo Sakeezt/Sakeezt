@@ -40,4 +40,5 @@ I've a basic knowledge of the language and I am learning to improve.
   <img src="https://github-readme-stats.vercel.app/api?username=Sakeezt&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats Card">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakeezt&theme=merko&hide_border=false" alt="GitHub Streak Card"><br>
 </p>
+<a href="http://www.github.com/Sakeezt"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sakeezt&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
